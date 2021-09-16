@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-demo-project/static/css/main.e4fb9bb5.chunk.css",
+    "main.js": "/React-demo-project/static/js/main.bae1bda8.chunk.js",
+    "main.js.map": "/React-demo-project/static/js/main.bae1bda8.chunk.js.map",
+    "runtime-main.js": "/React-demo-project/static/js/runtime-main.f8de3436.js",
+    "runtime-main.js.map": "/React-demo-project/static/js/runtime-main.f8de3436.js.map",
+    "static/css/2.5ddc9e9f.chunk.css": "/React-demo-project/static/css/2.5ddc9e9f.chunk.css",
+    "static/js/2.c9efc1a7.chunk.js": "/React-demo-project/static/js/2.c9efc1a7.chunk.js",
+    "static/js/2.c9efc1a7.chunk.js.map": "/React-demo-project/static/js/2.c9efc1a7.chunk.js.map",
+    "index.html": "/React-demo-project/index.html",
+    "static/css/2.5ddc9e9f.chunk.css.map": "/React-demo-project/static/css/2.5ddc9e9f.chunk.css.map",
+    "static/css/main.e4fb9bb5.chunk.css.map": "/React-demo-project/static/css/main.e4fb9bb5.chunk.css.map",
+    "static/js/2.c9efc1a7.chunk.js.LICENSE.txt": "/React-demo-project/static/js/2.c9efc1a7.chunk.js.LICENSE.txt",
+    "static/media/pe-icon-7-stroke.css": "/React-demo-project/static/media/Pe-icon-7-stroke.7233a7ae.ttf",
+    "static/media/bootstrap.min.css": "/React-demo-project/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8de3436.js",
+    "static/css/2.5ddc9e9f.chunk.css",
+    "static/js/2.c9efc1a7.chunk.js",
+    "static/css/main.e4fb9bb5.chunk.css",
+    "static/js/main.bae1bda8.chunk.js"
+  ]
+}
